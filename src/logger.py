@@ -14,7 +14,4 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# Test log messages
-logging.info("This is an informational message for testing.")
-logging.warning("This is a warning message for testing.")
-logging.error("This is an error message for testing.")
+
